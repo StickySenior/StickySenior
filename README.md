@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StickySenior
 - 👀 I’m interested in Data analysis and NLP
-- 🌱 I’m currently learning geographical data analysis and studying to become a Math teacher
+- 🌱 I’m currently learning geographical data analysis 
 - 💞️ I’m looking to collaborate on data extraction and pdf manipulation
 - 📫 How to reach me **STILL THINKING OF AN ANSWER**
 
